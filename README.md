@@ -1,3 +1,3 @@
 # Bar-Code-Scanner
 
-A Simple Bar
+A Simple Bar Code
